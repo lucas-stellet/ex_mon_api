@@ -36,6 +36,7 @@ defmodule ExMon.MixProject do
       {:phoenix, "~> 1.5.9"},
       {:phoenix_ecto, "~> 4.1"},
       {:ecto_sql, "~> 3.4"},
+      {:postgrex, ">= 0.0.0"},
       {:myxql, ">= 0.0.0"},
       {:phoenix_live_dashboard, "~> 0.4"},
       {:telemetry_metrics, "~> 0.4"},
@@ -43,6 +44,8 @@ defmodule ExMon.MixProject do
       {:gettext, "~> 0.11"},
       {:jason, "~> 1.0"},
       {:credo, "~> 1.5", only: [:dev, :test], runtime: false},
+      {:tesla, "~> 1.4.0"},
+      {:argon2_elixir, "~> 2.4"},
       {:plug_cowboy, "~> 2.0"}
     ]
   end
