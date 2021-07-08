@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7d185de8-2402-4c57-935a-6b9007ace699" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/ex_mon/config/config.exs" beforeDir="false" afterPath="$PROJECT_DIR$/ex_mon/config/config.exs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex_mon/config/dev.exs" beforeDir="false" afterPath="$PROJECT_DIR$/ex_mon/config/dev.exs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex_mon/config/test.exs" beforeDir="false" afterPath="$PROJECT_DIR$/ex_mon/config/test.exs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex_mon/lib/ex_mon.ex" beforeDir="false" afterPath="$PROJECT_DIR$/ex_mon/lib/ex_mon.ex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex_mon/lib/ex_mon/repo.ex" beforeDir="false" afterPath="$PROJECT_DIR$/ex_mon/lib/ex_mon/repo.ex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex_mon/lib/ex_mon/trainer.ex" beforeDir="false" afterPath="$PROJECT_DIR$/ex_mon/lib/ex_mon/trainer.ex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex_mon/mix.exs" beforeDir="false" afterPath="$PROJECT_DIR$/ex_mon/mix.exs" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1ujfUVPhGw8ahDzYYOyVLqhT179" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7d185de8-2402-4c57-935a-6b9007ace699" name="Default Changelist" comment="" />
+      <created>1625183937385</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1625183937385</updated>
+      <workItem from="1625183941027" duration="6000" />
+    </task>
+    <servers />
+  </component>
+</project>

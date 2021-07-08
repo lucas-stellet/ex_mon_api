@@ -2,7 +2,7 @@ use Mix.Config
 
 # Configure your database
 config :ex_mon, ExMon.Repo,
-  username: "root",
+  username: "postgres",
   password: "pass123",
   database: "ex_mon_dev",
   hostname: "localhost",

@@ -13,10 +13,10 @@ config :ex_mon,
 # Configures the endpoint
 config :ex_mon, ExMonWeb.Endpoint,
   url: [host: "localhost"],
-  secret_key_base: "k054vISFPkOC6nrg/5hL6quh7UjjY970p8o3VuJ8C2hvFfCJ15znkFYMtLJeZVcm",
+  secret_key_base: "P+ZaZiKGAMigiQuEwMFCsNhH3sDrX+t8esw5kCMeAPjjkeG2orLx230RvsmZD/Ne",
   render_errors: [view: ExMonWeb.ErrorView, accepts: ~w(json), layout: false],
   pubsub_server: ExMon.PubSub,
-  live_view: [signing_salt: "Nkst9nbn"]
+  live_view: [signing_salt: "lza3nwF6"]
 
 # Configures Elixir's Logger
 config :logger, :console,
